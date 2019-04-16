@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#943526">
+
+	
+	<meta property="og:image" content="https://taruen.github.io/blog/thumbnail.jpg">
+	
+
+	
+	<meta property="og:title" content="Taruen • Тэй-ру-эн • Towards a free/libre/open-source speech-to-text system for Kazakh">
+	
+
+	<link rel="icon" href="/blog/favicon.png" type="image/png">
+
+	<title>Towards a free/libre/open-source speech-to-text system for Kazakh</title>
+	<meta name="description" content="Wouldn’t it be great, if Google Assistant or Yandex Alisa spoke Kazakh?">
+
+	<link rel='stylesheet' id='libretto-fonts-css'  href='https://fonts.googleapis.com/css?family=Libre+Baskerville%3A400%2C700%2C400italic%7CPlayfair+Display%3A400%2C700%2C400italic%2C700italic%7CPlayfair+Display+SC%3A700%2C700italic%7CMontserrat%3A400%7CDroid+Sans+Mono%3A400&#038;subset=latin%2Clatin-ext' type='text/css' media='all'>
+
+	<link rel="stylesheet" href="/blog/css/main.css">
+	<link rel="canonical" href="https://taruen.github.io/blog/2019/04/16/common-voice-kazakh.html">
+	<link rel="alternate" type="application/rss+xml" title="Taruen • Тэй-ру-эн" href="https://taruen.github.io/blog/feed.xml">
+</head>
+
+
+<body>
+
+	<header class="site-header">
+
+	<div class="wrapper">
+
+		<a class="site-title" href="/blog/">Taruen • Тэй-ру-эн</a>
+
+	</div>
+
+</header>
+
+
+	<div class="page-content">
+		<div class="wrapper">
+			<header class="post-header">
+	<div>
+		<span>Posted on </span><span class="post-meta">April 16, 2019</span>
+	</div>
+
+	<h1 class="post-title" itemprop="name headline">Towards a free/libre/open-source speech-to-text system for Kazakh</h1>
+</header>
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+	<div class="entry-content" itemprop="articleBody">
+		<p>Wouldn’t it be great, if Google Assistant or Yandex Alisa spoke Kazakh?</p>
+
+<p>One necessary component of such speech-enabled digital assistants is
+a so-called <code class="highlighter-rouge">speech recognition</code> or <code class="highlighter-rouge">speech-to-text</code> system.</p>
+
+<p>Large amounts of audio data (thousands of hours, see below), from many different
+people, along with transcriptions, are needed to train a good speech-to-text
+system using <code class="highlighter-rouge">machine learning</code> methods. So far, due to lack appropriately
+licensed, freely available audio data in them, building a high-accuracy
+free/libre/open-source (FLOSS) speech recognition system is out of reach for
+most languages.</p>
+
+<p>Fortunately, there is a way to change this for the better. In 2018, Mozilla,
+the company behind the Firefox web-browser and many other programs, had
+launched the <a href="https://voice.mozilla.org">Common Voice</a> project.</p>
+
+<p>Here is a snippet from its <a href="https://voice.mozilla.org/en/faq">FAQ page</a>:</p>
+
+<blockquote>
+  <h1 id="what-is-common-voice">What is Common Voice?</h1>
+</blockquote>
+
+<blockquote>
+  <p>Voice recognition technology is revolutionizing the way we interact with
+machines, but the currently available systems are expensive and
+proprietary. Common Voice is part of Mozilla’s initiative to make voice
+recognition technologies better and more accessible for everyone. Common
+Voice is a massive global database of donated voices that lets anyone quickly
+and easily train voice-enabled apps in potentially every language.</p>
+</blockquote>
+
+<blockquote>
+  <p>We’re not only collecting voice samples in widely spoken languages but also
+in those with a smaller population of speakers. Publishing a diverse dataset
+of voices will empower developers, entrepreneurs, and communities to address
+this gap themselves. In addition to the Common Voice dataset, we’re also
+building an open source speech recognition engine called Deep Speech.</p>
+</blockquote>
+
+<h2 id="how-you-can-help">How you can help</h2>
+
+<p>We at <code class="highlighter-rouge">taruen.com</code> want to launch Common Voice in Kazakh, and started taking
+first steps towards that goal. But for that to happen, we need help from
+native speakers of Kazakh. If you are one, here is how you can help:</p>
+
+<ol>
+  <li>
+    <p>Review whether <a href="https://voice.mozilla.org/kk/">Common Voice website</a> has
+been correctly translated into Kazakh on
+<a href="https://pontoon.mozilla.org/kk/common-voice/">Pontoon</a>, Mozilla’s
+localisation tool. About one-third of translations were authored by us —
+non-native Kazakh speakers — and thus might be incorrect.</p>
+  </li>
+  <li>
+    <p><a href="https://common-voice.github.io/sentence-collector/#/review/kk">Review</a>
+Kazakh sentences we’ve submitted to the Common Voice Sentence Collector
+tool. At least 5000 reviewed sentences are needed to “launch” a language on
+Common Voice.</p>
+  </li>
+</ol>
+
+<p>These sentences were taken from the Volumes 65 and 68 of the mighty 100-volume
+set with works of Kazakh folklore, called “Бабалар сөзі” and published by
+M. Auezov Institute of Literature and Art. By Article 8 of Kazakhstani
+Copyright Law, works of folklore are exempt from copyright and are thus in the
+public domain and suitable for submitting to Common Voice. Moreover, proverbs
+from volumes 65 and 68 match other criteria of the Common Voice project as well
+— they don’t contain digits, foreign letters and other symbols not allowed in
+the dataset, they are mostly short, arguably pedagogical/entertaining and thus
+fun to read.</p>
+
+<p>Besides usual checks for correct spelling and grammaticality
+<a href="https://common-voice.github.io/sentence-collector/#/how-to">required</a> by
+Common Voice, when reviewing sentences, we also ask you to make sure that none
+of the sentences are remotely offensive to men, women, parents, children,
+religious people, non-religious people, Southern Kazakhstanis, Northern
+Kazakhstanis, Western Kazakhstanis, Eastern Kazakhstanis, Kazakhs of China,
+Kazakhs of … You get the idea. A glimpse over the sentences did not
+suggest that they would contain anything like that, but again, that’s something
+for native speakers to judge.</p>
+
+<p>We hope that together we can assemble enough data so that anyone who wishes
+to do so can train a speech-to-text system for Kazakh. On the <a href="https://voice.mozilla.org/en/faq">FAQ
+page</a> of the project, Mozillians mention
+10000 hours as an approximate number of validated hours needed to train
+a production speech-to-text system, so that’s something to strive for.
+It does sound like a lot, but when divided even by conservative numbers
+of Kazakh speakers, requires each person recording sentences for about
+4 seconds. That is a much less scary number ;)</p>
+
+	</div>
+</article>
+
+<div id="post-nav">
+	<div class="next">
+		
+	</div>
+
+	<div class="previous">
+		
+	</div>
+</div>
+
+		</div>
+	</div>
+
+	<footer class="site-footer">
+
+	<div class="wrapper">
+
+		<h2 class="footer-heading">Taruen • Тэй-ру-эн • <a href="/blog/table-of-contents">Table of Contents</a></h2>
+
+		<div class="footer-col-wrapper">
+			<div class="footer-col footer-col-1">
+				<ul class="contact-list">
+					<li><a href="mailto:contact@taruen.com">contact@taruen.com</a></li>
+				</ul>
+			</div>
+
+			<div class="footer-col footer-col-2">
+				<ul class="social-media-list">
+					
+					<li>
+						<a href="https://github.com/taruen"><span class="icon icon--github"><svg viewBox="0 0 16 16"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
+</span><span class="username">taruen</span></a>
+
+					</li>
+					
+
+					
+
+					
+				</ul>
+			</div>
+
+			<div class="footer-col footer-col-3">
+				<p>Taruen.com is a small digital studio developing Natural Language Processing tools for Tatar and related languages. We are based in Kazan, Russia.
+</p>
+			</div>
+		</div>
+
+	</div>
+
+</footer>
+
+
+</body>
+
+</html>

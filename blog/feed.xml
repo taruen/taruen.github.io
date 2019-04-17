@@ -6,14 +6,20 @@
 </description>
     <link>https://taruen.github.io/blog/</link>
     <atom:link href="https://taruen.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Apr 2019 11:58:01 +0300</pubDate>
-    <lastBuildDate>Wed, 17 Apr 2019 11:58:01 +0300</lastBuildDate>
+    <pubDate>Wed, 17 Apr 2019 12:13:20 +0300</pubDate>
+    <lastBuildDate>Wed, 17 Apr 2019 12:13:20 +0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Қазақ тілі үшін ерікті / ашық бастапқы кодты сөйлеу тану жүйесіне қарай</title>
-        <description>&lt;p&gt;Google Assistant немесе Yandex Alisa қазақ тілінде де сөйлесе, керемет болмас
-па еді?&lt;/p&gt;
+        <description>&lt;p&gt;Бұл мақала —
+&lt;a href=&quot;http://taruen.com/blog/2019/04/16/common-voice-kazakh.html&quot;&gt;мұндағы&lt;/a&gt; ағылшынша
+мақаланың аудармасы.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Google Assistant немесе Yandex Alisa қазақ тілінде де
+сөйлесе, керемет болмас па еді?&lt;/p&gt;
 
 &lt;p&gt;Мұндай сөйлесетін ассистенттердің қажетті компоненті болып &lt;code class=&quot;highlighter-rouge&quot;&gt;сөйлеуді тану&lt;/code&gt;
 (ағылшыншасы “speech recognition”) немесе &lt;code class=&quot;highlighter-rouge&quot;&gt;сөйлеуді мәтінге&lt;/code&gt; (ағылшыншасы

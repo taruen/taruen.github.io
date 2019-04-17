@@ -11,7 +11,7 @@ a so-called `speech recognition` or `speech-to-text` system.
 
 Large amounts of audio data (thousands of hours, see below), from many different
 people, along with transcriptions, are needed to train a good speech-to-text
-system using `machine learning` methods. So far, due to lack appropriately
+system using `machine learning` methods. So far, due to lack of appropriately
 licensed, freely available audio data in them, building a high-accuracy
 free/libre/open-source (FLOSS) speech recognition system is out of reach for
 most languages.

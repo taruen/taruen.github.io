@@ -6,8 +6,8 @@
 </description>
     <link>https://taruen.github.io/blog/</link>
     <atom:link href="https://taruen.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Apr 2019 12:34:49 +0300</pubDate>
-    <lastBuildDate>Wed, 17 Apr 2019 12:34:49 +0300</lastBuildDate>
+    <pubDate>Wed, 17 Apr 2019 21:00:24 +0300</pubDate>
+    <lastBuildDate>Wed, 17 Apr 2019 21:00:24 +0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -131,7 +131,7 @@ a so-called &lt;code class=&quot;highlighter-rouge&quot;&gt;speech recognition&l
 
 &lt;p&gt;Large amounts of audio data (thousands of hours, see below), from many different
 people, along with transcriptions, are needed to train a good speech-to-text
-system using &lt;code class=&quot;highlighter-rouge&quot;&gt;machine learning&lt;/code&gt; methods. So far, due to lack appropriately
+system using &lt;code class=&quot;highlighter-rouge&quot;&gt;machine learning&lt;/code&gt; methods. So far, due to lack of appropriately
 licensed, freely available audio data in them, building a high-accuracy
 free/libre/open-source (FLOSS) speech recognition system is out of reach for
 most languages.&lt;/p&gt;

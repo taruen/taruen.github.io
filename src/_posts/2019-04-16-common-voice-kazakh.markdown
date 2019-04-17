@@ -74,11 +74,11 @@ Kazakhs of ... You get the idea. A glimpse over the sentences did not
 suggest that they would contain anything like that, but again, that's something
 for native speakers to judge.
 
-We hope that together we can assemble enough data so that anyone who wishes
-to do so can train a speech-to-text system for Kazakh. On the [FAQ
+We hope that together we can assemble enough data so that anyone who wishes to
+do so can train a speech-to-text system for Kazakh. On the [FAQ
 page](https://voice.mozilla.org/en/faq) of the project, Mozillians mention
-10000 hours as an approximate number of validated hours needed to train
-a production speech-to-text system, so that's something to strive for.
-It does sound like a lot, but when divided even by conservative numbers
-of Kazakh speakers, requires each person recording sentences for about
-4 seconds. That is a much less scary number ;)
+10000 hours as an approximate number of validated hours needed to train a
+production speech-to-text system, so that's something to strive for.  It does
+sound like a lot, but when divided even by conservative numbers of Kazakh
+speakers, it requires each person to record sentences for about 4 seconds. That
+is a much less scary number ;)

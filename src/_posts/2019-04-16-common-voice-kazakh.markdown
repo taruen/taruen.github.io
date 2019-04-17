@@ -46,8 +46,8 @@ native speakers of Kazakh. If you are one, here is how you can help:
 1. Review whether [Common Voice website](https://voice.mozilla.org/kk/) has
    been correctly translated into Kazakh on
    [Pontoon](https://pontoon.mozilla.org/kk/common-voice/), Mozilla's
-   localisation tool. About one-third of translations were authored by us ---
-   non-native Kazakh speakers --- and thus might be incorrect.
+   localisation tool. About one-third of the translations were authored by us
+   --- non-native Kazakh speakers --- and thus might be incorrect.
 
 2. [Review](https://common-voice.github.io/sentence-collector/#/review/kk)
    Kazakh sentences we've submitted to the Common Voice Sentence Collector

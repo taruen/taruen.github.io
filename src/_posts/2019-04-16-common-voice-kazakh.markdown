@@ -79,6 +79,6 @@ do so can train a speech-to-text system for Kazakh. On the [FAQ
 page](https://voice.mozilla.org/en/faq) of the project, Mozillians mention
 10000 hours as an approximate number of validated hours needed to train a
 production speech-to-text system, so that's something to strive for.  It does
-sound like a lot, but when divided even by conservative numbers of Kazakh
+sound like a lot, but when divided among even a conservative number of Kazakh
 speakers, it requires each person to record sentences for about 4 seconds. That
 is a much less scary number ;)

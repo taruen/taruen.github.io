@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taruen • Тэй-ру-эн</title>
-    <description>Taruen.com is a small digital studio developing Natural Language Processing tools for Tatar and related languages. We are based in Kazan, Russia.
+    <description>We're a group of people developing Natural Language Processing tools for Tatar and related languages. We are based in Kazan, Tatarstan, Russia.
 </description>
     <link>https://taruen.github.io/blog/</link>
     <atom:link href="https://taruen.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Apr 2019 21:20:16 +0300</pubDate>
-    <lastBuildDate>Wed, 17 Apr 2019 21:20:16 +0300</lastBuildDate>
+    <pubDate>Thu, 19 Sep 2019 10:26:18 +0300</pubDate>
+    <lastBuildDate>Thu, 19 Sep 2019 10:26:18 +0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>

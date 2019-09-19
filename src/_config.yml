@@ -16,9 +16,9 @@
 title: Taruen • Тэй-ру-эн
 email: contact@taruen.com
 description: > # this means to ignore newlines until "baseurl:"
-  Taruen.com is a small digital studio developing Natural
+  We're a group of people developing Natural
   Language Processing tools for Tatar and related languages.
-  We are based in Kazan, Russia.
+  We are based in Kazan, Tatarstan, Russia.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://taruen.github.io" # the base hostname & protocol for your site
 github_username:    taruen

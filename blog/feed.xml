@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taruen • Тэй-ру-эн</title>
-    <description>We're a group of people developing Natural Language Processing tools for Tatar and related languages. We are based in Kazan, Tatarstan, Russia.
+    <description>We&#39;re a group of people developing Natural Language Processing tools for Tatar and related languages. We are based in Kazan, Tatarstan, Russia.
 </description>
     <link>https://taruen.github.io/blog/</link>
     <atom:link href="https://taruen.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Sep 2019 10:26:18 +0300</pubDate>
-    <lastBuildDate>Thu, 19 Sep 2019 10:26:18 +0300</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <pubDate>Mon, 25 Nov 2019 03:18:16 +0600</pubDate>
+    <lastBuildDate>Mon, 25 Nov 2019 03:18:16 +0600</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>Қазақ тілі үшін ерікті / ашық бастапқы кодты сөйлеу тану жүйесіне қарай</title>
@@ -115,7 +115,7 @@ Mozilla компаниясының дауыс тану технологияла�
 бөлсек те, кісі басына шамашен 4 секунд аудио тура келеді. Ал 4 секунд ол
 әлдеқайда азрақ қорқынышты сан ;)&lt;/p&gt;
 </description>
-        <pubDate>Wed, 17 Apr 2019 09:10:11 +0300</pubDate>
+        <pubDate>Wed, 17 Apr 2019 12:10:11 +0600</pubDate>
         <link>https://taruen.github.io/blog/2019/04/17/common-voice-kazakh.kaz.html</link>
         <guid isPermaLink="true">https://taruen.github.io/blog/2019/04/17/common-voice-kazakh.kaz.html</guid>
         
@@ -214,7 +214,7 @@ sound like a lot, but when divided among even a conservative number of Kazakh
 speakers, it requires each person to record sentences for about 4 seconds. That
 is a much less scary number ;)&lt;/p&gt;
 </description>
-        <pubDate>Tue, 16 Apr 2019 10:05:11 +0300</pubDate>
+        <pubDate>Tue, 16 Apr 2019 13:05:11 +0600</pubDate>
         <link>https://taruen.github.io/blog/2019/04/16/common-voice-kazakh.html</link>
         <guid isPermaLink="true">https://taruen.github.io/blog/2019/04/16/common-voice-kazakh.html</guid>
         

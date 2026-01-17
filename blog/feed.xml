@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taruen • Тэй-ру-эн</title>
-    <description>We&#39;re a group of people developing Natural Language Processing tools for Tatar and related languages. We are based in Kazan, Tatarstan, Russia.
+    <description>We&apos;re a group of people developing Natural Language Processing tools for Tatar and related languages. We are based in Istanbul.
 </description>
     <link>https://taruen.github.io/blog/</link>
     <atom:link href="https://taruen.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Dec 2019 20:20:10 +0600</pubDate>
-    <lastBuildDate>Mon, 09 Dec 2019 20:20:10 +0600</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <pubDate>Sat, 17 Jan 2026 20:08:44 +0300</pubDate>
+    <lastBuildDate>Sat, 17 Jan 2026 20:08:44 +0300</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>Қазақ тілі үшін ерікті / ашық бастапқы кодты сөйлеу тану жүйесіне қарай</title>
@@ -24,15 +24,15 @@
 &lt;p&gt;Google Assistant немесе Yandex Alisa қазақ тілінде де
 сөйлесе, керемет болмас па еді?&lt;/p&gt;
 
-&lt;p&gt;Мұндай сөйлесетін ассистенттердің қажетті компоненті болып &lt;code class=&quot;highlighter-rouge&quot;&gt;сөйлеуді тану&lt;/code&gt;
-(ағылшыншасы “speech recognition”) немесе &lt;code class=&quot;highlighter-rouge&quot;&gt;сөйлеуді мәтінге&lt;/code&gt; (ағылшыншасы
+&lt;p&gt;Мұндай сөйлесетін ассистенттердің қажетті компоненті болып &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;сөйлеуді тану&lt;/code&gt;
+(ағылшыншасы “speech recognition”) немесе &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;сөйлеуді мәтінге&lt;/code&gt; (ағылшыншасы
 “speech-to-text”) деп аталатын жүйе табылады.&lt;/p&gt;
 
 &lt;p&gt;Машина оқыту методтарымен бір тіл үшін жақсы сапалы сөйлеу тану жүйесін болдыру
 үшін, ол тілде даустық деректердің аса үлкен көлемі (мыңдаған сағат, төменде
 қараңыз) болуы қажет. Бұдан басқа, ол деректер әртүрлі адамдар тарапынан
 жазылған болуы және транскрипцияланған болуы керек. Осы уақытқа дейін, тиісті
-лицензиялі аудиодеректердің болмауы себепті, көпшілік тілдер үшін &lt;code class=&quot;highlighter-rouge&quot;&gt;ерікті / ашық
+лицензиялі аудиодеректердің болмауы себепті, көпшілік тілдер үшін &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ерікті / ашық
 бастапқы кодты&lt;/code&gt; сөйлеуді тану жүйесі қол жетімсіз болып қала береді.&lt;/p&gt;
 
 &lt;p&gt;Бақытымызға орай, бұл жағдайды жақсы жаққа өзгертуге болады. 2018 жылы Mozilla,
@@ -117,7 +117,7 @@ Mozilla компаниясының дауыс тану технологияла�
 бөлсек те, кісі басына шамашен 4 секунд аудио тура келеді. Ал 4 секунд ол
 әлдеқайда азрақ қорқынышты сан ;)&lt;/p&gt;
 </description>
-        <pubDate>Wed, 17 Apr 2019 12:10:11 +0600</pubDate>
+        <pubDate>Wed, 17 Apr 2019 09:10:11 +0300</pubDate>
         <link>https://taruen.github.io/blog/2019/04/17/common-voice-kazakh.kaz.html</link>
         <guid isPermaLink="true">https://taruen.github.io/blog/2019/04/17/common-voice-kazakh.kaz.html</guid>
         
@@ -129,11 +129,11 @@ Mozilla компаниясының дауыс тану технологияла�
         <description>&lt;p&gt;Wouldn’t it be great, if Google Assistant or Yandex Alisa spoke Kazakh?&lt;/p&gt;
 
 &lt;p&gt;One necessary component of such speech-enabled digital assistants is
-a so-called &lt;code class=&quot;highlighter-rouge&quot;&gt;speech recognition&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;speech-to-text&lt;/code&gt; system.&lt;/p&gt;
+a so-called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;speech recognition&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;speech-to-text&lt;/code&gt; system.&lt;/p&gt;
 
 &lt;p&gt;Large amounts of audio data (thousands of hours, see below), from many different
 people, along with transcriptions, are needed to train a good speech-to-text
-system using &lt;code class=&quot;highlighter-rouge&quot;&gt;machine learning&lt;/code&gt; methods. So far, due to lack of appropriately
+system using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;machine learning&lt;/code&gt; methods. So far, due to lack of appropriately
 licensed, freely available audio data in them, building a high-accuracy
 free/libre/open-source (FLOSS) speech recognition system is out of reach for
 most languages.&lt;/p&gt;
@@ -167,7 +167,7 @@ building an open source speech recognition engine called Deep Speech.&lt;/p&gt;
 
 &lt;h2 id=&quot;how-you-can-help&quot;&gt;How you can help&lt;/h2&gt;
 
-&lt;p&gt;We at &lt;code class=&quot;highlighter-rouge&quot;&gt;taruen.com&lt;/code&gt; want to launch Common Voice in Kazakh, and started taking
+&lt;p&gt;We at &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;taruen.com&lt;/code&gt; want to launch Common Voice in Kazakh, and started taking
 first steps towards that goal. But for that to happen, we need help from
 native speakers of Kazakh. If you are one, here is how you can help:&lt;/p&gt;
 
@@ -216,7 +216,7 @@ sound like a lot, but when divided among even a conservative number of Kazakh
 speakers, it requires each person to record sentences for about 4 seconds. That
 is a much less scary number ;)&lt;/p&gt;
 </description>
-        <pubDate>Tue, 16 Apr 2019 13:05:11 +0600</pubDate>
+        <pubDate>Tue, 16 Apr 2019 10:05:11 +0300</pubDate>
         <link>https://taruen.github.io/blog/2019/04/16/common-voice-kazakh.html</link>
         <guid isPermaLink="true">https://taruen.github.io/blog/2019/04/16/common-voice-kazakh.html</guid>
         
